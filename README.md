@@ -5,5 +5,5 @@
 ```
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIIMpYg2JMozR6o+xPBh7rj97uLN/rZYDyw+sIV2qAMjS christopher_chang@trendmicro.com
 ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIBIcbWQdyBuM0qlwpH1yzeMRTt8TRQijDyZKejSNtsTu changchiyou@gmail.com
-ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIOE9Wb3PnOHYrHKesAnM5Bb48yDiPM4iotVpwv65QNRW Terminus
+ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIA2ljJhgpCxAC7CaVhtiertk9qYt5e798RBiAjUZqVi1 u0_a368@localhost
 ```
